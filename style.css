@@ -421,6 +421,9 @@ header .navbar ul li a:hover {
   font-family: "Nunito", sans-serif;
   margin-right: 2rem;
 }
+.resumebtn .btn-secondary {
+  margin-left: auto; 
+}
 .resumebtn .btn span {
   font-weight: 600;
   font-size: 1.8rem;

@@ -423,6 +423,8 @@ header .navbar ul li a:hover {
 }
 .resumebtn .btn-secondary {
   margin-left: auto; 
+  padding: 1.2rem 2.2rem; 
+  font-size: 1.6rem; 
 }
 .resumebtn .btn span {
   font-weight: 600;

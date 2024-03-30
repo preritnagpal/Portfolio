@@ -893,6 +893,7 @@ header .navbar ul li a:hover {
   
   display: flex;
   justify-content: flex-start;
+  border: 2px solid #000;
 }
 .newbtn .nbtn {
   position: relative;
@@ -902,7 +903,6 @@ header .navbar ul li a:hover {
   transition: 0.5s;
   color: #000;
   background: #f68c09;
-  border: 2px solid #000;
   text-align: center;
 }
 .newbtn .nbtn span {
